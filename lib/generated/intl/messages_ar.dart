@@ -23,7 +23,6 @@ class MessageLookup extends MessageLookupByLibrary {
   static _notInlinedMessages(_) => <String, Function> {
     "browseCourses" : MessageLookupByLibrary.simpleMessage("تصفح الدورات"),
     "createAccount" : MessageLookupByLibrary.simpleMessage("انشاء حساب"),
-    "done" : MessageLookupByLibrary.simpleMessage("تم"),
     "email" : MessageLookupByLibrary.simpleMessage("البريد الإلكتروني"),
     "have_an_account" : MessageLookupByLibrary.simpleMessage("هل لديك حساب ؟"),
     "intro1" : MessageLookupByLibrary.simpleMessage("يقدم مركز تمكين الشباب خدمات الإنشاء الوظيفي وبناء القدرات وريادة الأعمال وغيرها "),
